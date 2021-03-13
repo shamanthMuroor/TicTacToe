@@ -6,7 +6,7 @@ This repository contains C++ based Tic-Tac-Toe game.
 
 ## Prerequisites
 
-C++ installed in computer
+Any C++ compiler installed in computer
 
 ## Usage
 
